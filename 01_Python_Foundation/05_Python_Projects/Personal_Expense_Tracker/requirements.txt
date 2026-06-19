@@ -1,0 +1,2 @@
+# Pure Python project
+# No external libraries required
